@@ -1,0 +1,10 @@
+{
+  "extends": "semistandard",
+
+  "rules": {
+	"indent": ["error", "tab"],
+	"no-tabs": "off",
+	"no-mixed-spaces-and-tabs": "error",
+	"no-undef": "warn"
+  }
+}
