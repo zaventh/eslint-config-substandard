@@ -7,3 +7,5 @@ logs
 node_modules
 
 test/semistandard.json
+
+.idea

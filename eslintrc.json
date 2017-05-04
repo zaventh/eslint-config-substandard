@@ -1,10 +1,13 @@
 {
   "extends": "semistandard",
-
   "rules": {
-	"indent": ["error", "tab"],
-	"no-tabs": "off",
-	"no-mixed-spaces-and-tabs": "error",
-	"no-undef": "warn"
+    "indent": [
+      "error",
+      "tab"
+    ],
+    "no-tabs": "off",
+    "no-mixed-spaces-and-tabs": "error",
+    "no-undef": "error",
+    "guard-for-in": "error"
   }
 }
